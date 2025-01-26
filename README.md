@@ -1,4 +1,5 @@
-<b><h1>A BASIC TENSORFLOW MODEL</h1></b>
+<b><h1>A BASIC TENSORFLOW MACHINE LEARNING MODEL</h1></b>
+<b><SUPERVISED LEARNING WITH TRAIN-TEST-SPLIT/b>
 
 <ul>
   <li><b>pandas</b>: Read and load data.</li>
